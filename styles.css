@@ -1,8 +1,15 @@
-
-div {
-    color: white;
-    background-color: red;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
+.butt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+
+.black-butt{
+    background-color: #000;
+    color: white;
+}
+
+.yellow-butt{
+    background-color: #ff0;
+}
+
