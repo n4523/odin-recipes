@@ -1,19 +1,9 @@
-p{
-    background-color: #ffb6c1;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
 }
 
-.num-2{
-    color: #0000ff;
-    font-size: 36px;
-}
-
-#num-3{
-    font-size: 24px;
-}
-
-.num-4{
-    background-color: #90ee90;
-    font-size: 24px;
-    font-weight: 700;
+.avatar.distorted{
+    height: 400px;
+    width: 200px;
 }
